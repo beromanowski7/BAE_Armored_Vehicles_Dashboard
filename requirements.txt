@@ -3,9 +3,4 @@ pandas
 folium
 streamlit-folium
 fpdf
-logging
-html
-fpdf
-BytesIO
-datetime
 openpyxl
