@@ -34,10 +34,19 @@ This interactive Streamlit dashboard visualizes the global distribution of armor
 - datetime
 
 
-## Dataset & Image Files
-- dataset.xlsx: The data file with country, vehicle, quantity, and coordinates.
+## Project Files
 
-- Vehicle Images: All referenced vehicle image files (e.g., RG-31.jpg, Warrior_IFV.jpeg, etc.) are located in the same directory as the script.
+- images (folder) Vehicle Images: All referenced vehicle image files (e.g., RG-31.jpg, Warrior_IFV.jpeg, etc.) are located in the same directory as the script.
+
+- Dataset.xlsx: My custom data file with country, vehicle, quantity, and coordinates.
+
+- Final_Project_Romanowski.py: The python script to run the Streamlit dashboard web app. ***(Having the script in a ".py" file was required, streamlit doesn't allow apps to run out of a jupyter notebook ".ipynb" file)***
+
+- README: The markdown file as a reference guide for the project. (the file you're reading right now)
+
+- references.xlsx: A spreadsheet list of all the links I used to curate the custom dataset for the project.
+
+- requirements.txt: A text file of python library dependancies needed for deploying my Streamlit app to Streamlit Cloud. 
 
 ## How to Run
 1. Ensure your working directory contains:
@@ -49,13 +58,13 @@ This interactive Streamlit dashboard visualizes the global distribution of armor
 
     streamlit run Final_Project_Romanowski.py
 
-3. Use the sidebar to:
+3. Use the sidebar filter selection pane to:
     - Filter by Country
     - Filter by Vehicle Type
     - Change the Map Style
 
 4. Click any country marker on the map to view detailed delivery info and images.
-5. Click the 'Download PDF Report' button after a country is selected on the map.
+5. Click the 'Download PDF Report' button *after a country is selected on the map.*
 
 ## Customization
 Map Tiles: Choose from OpenStreetMap, CartoDB, or Esri WorldStreetMap.
@@ -76,3 +85,5 @@ This project is for educational purposes.
 
 ### Questions?
 Contact: **beromanowski7** (GitHub profile)
+
+
