@@ -8,3 +8,4 @@ html
 fpdf
 BytesIO
 datetime
+openpyxl
