@@ -2,6 +2,9 @@
 ### Author: Blake Romanowski
 ### Script: Final_Project_Romanowski.py
 
+### Dashboard:
+![image](https://github.com/user-attachments/assets/673c8205-50b3-435c-aa37-cfd5f45f19a7)
+
 ## Overview
 This interactive Streamlit dashboard visualizes the global distribution of armored vehicle sales by BAE Systems Inc. from publiclly available sources (see 'References.xlsx' file included in the project folder). This dashboard uses an interactive Folium map to display vehicle deliveries by country, allowing users to filter by country, vehicle type, and map style. Clicking on a country reveals vehicle number data along with the associated vehicle images.
 
@@ -73,6 +76,3 @@ This project is for educational purposes.
 
 ### Questions?
 Contact: **beromanowski7** (GitHub profile)
-
-
-"# BAE_Armored_Vehicles_Dashboard" 
