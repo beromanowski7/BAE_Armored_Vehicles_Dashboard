@@ -1,6 +1,7 @@
 # BAE Systems Armored Vehicles Dashboard
 ### Author: Blake Romanowski
 ### Script: Final_Project_Romanowski.py
+### Github public link: https://github.com/beromanowski7/BAE_Armored_Vehicles_Dashboard
 
 ### Dashboard:
 ![image](https://github.com/user-attachments/assets/673c8205-50b3-435c-aa37-cfd5f45f19a7)
